@@ -1,13 +1,13 @@
-# Sérgio Manso Silvério
 
-**`Desenvolvedor de Software`**
+# Olá, eu sou o Sérgio Manso Silvério 👋
 
-Me chamo Sérgio Manso Silvério, tenho 18 anos e atualmente estou cursando Ciências da computação na PUCMG. 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sergiomanso/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+
+Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixonado por desenvolvimento de software.
+
+* 🔭 Atualmente estou desenvolvendo projetos pessoais para fortalecer meu portfólio.
+* 💻 Estou me aprofundando em **Java Back-End**, utilizando **Spring Boot** e outras tecnologias do ecossistema.
+* 📫 Entre em contato: sergio.manso2007@gmail.com
+* 📄 Conheça minhas experiências: [LinkedIn](https://www.linkedin.com/in/sergiomanso/)
 
 
 
@@ -115,7 +115,7 @@ Me chamo Sérgio Manso Silvério, tenho 18 anos e atualmente estou cursando Ciê
 ### 📊 Estatísticas
 
 <p>
-   <img 
+  <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
