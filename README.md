@@ -7,7 +7,7 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
 * 🔭 Atualmente estou desenvolvendo projetos pessoais para fortalecer meu portfólio.
 * 💻 Estou me aprofundando em **Java Back-End**, utilizando **Spring Boot** e outras tecnologias do ecossistema.
 * 📫 Entre em contato: sergio.manso2007@gmail.com
-* 📄 Conheça minhas experiências: [LinkedIn](https://www.linkedin.com/in/sergiomanso/)
+* 📄 Conheça mais sobre mim: [LinkedIn](https://www.linkedin.com/in/sergiomanso/)
 
 
 
