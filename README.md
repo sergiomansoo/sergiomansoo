@@ -115,7 +115,7 @@ Me chamo Sérgio Manso Silvério, tenho 18 anos e atualmente estou cursando Ciê
 ### 📊 Estatísticas
 
 <p>
-  <img 
+   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
