@@ -111,15 +111,3 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
 <br/>
 
 
-
-### 📊 Estatísticas
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomansoo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
