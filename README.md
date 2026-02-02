@@ -17,8 +17,8 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="java"
+    title="java" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
@@ -50,7 +50,7 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
 <img 
     align="left" 
     alt="AzureSQL" 
-    title="Python"
+    title="AzureSQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
