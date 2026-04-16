@@ -16,7 +16,6 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    
     alt="java"
     title="java" 
     width="30px" 
@@ -24,7 +23,6 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
-    
     alt="SpringBoot" 
     title="SpringBoot"
     width="30px" 
@@ -32,7 +30,6 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 <img 
-    
     alt="Python" 
     title="Python"
     width="30px" 
@@ -40,7 +37,6 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />        
 <img 
-    
     alt="Git" 
     title="Git"
     width="30px" 
@@ -48,7 +44,6 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    
     alt="PostgreSQL" 
     title="PostgreSQL"
     width="30px" 
@@ -56,7 +51,6 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
-    
     alt="Pandas" 
     title="Pandas"
     width="30px" 
@@ -64,7 +58,6 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
 />        
 <img 
-    
     alt="html5" 
     title="html5 "
     width="30px" 
@@ -74,7 +67,6 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
 
 
 <img 
-    
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -82,7 +74,6 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -93,7 +84,6 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
 
 
 <img 
-    
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -105,7 +95,6 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
 
 
 <img 
-    
     alt="C++" 
     title="C++"
     width="30px" 
