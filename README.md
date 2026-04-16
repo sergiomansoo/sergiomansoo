@@ -64,8 +64,6 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-
-
 <img 
     alt="CSS" 
     title="CSS"
@@ -80,9 +78,6 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-
-
 <img 
     alt="Bootstrap"
     title="Bootstrap" 
@@ -90,10 +85,6 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
-
-
-
 <img 
     alt="C++" 
     title="C++"
@@ -103,8 +94,5 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
 />
 
 
-
-<br/>
-<br/>
 
 
