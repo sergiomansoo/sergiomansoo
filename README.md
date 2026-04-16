@@ -33,6 +33,14 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
 />
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>        
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -49,12 +57,12 @@ Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixon
 />
 <img 
     align="left" 
-    alt="AzureSQL" 
-    title="AzureSQL"
+    alt="Pandas" 
+    title="Pandas"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+/>        
 <img 
     align="left" 
     alt="html5" 
