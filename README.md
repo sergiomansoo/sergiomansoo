@@ -2,7 +2,7 @@
 # Olá, sou o Sérgio Manso Silvério 👋
 
 
-Estudante de **Ciências da Computação na PUCMG**, tenho 18 anos e sou apaixonado por desenvolvimento de software.
+Estudante de **Ciências da Computação na PUCMG** tenho 19 anos, apaixonado por desenvolvimento de software.
 
 * 🔭 Atualmente estou desenvolvendo projetos pessoais para fortalecer meu portfólio.
 * 🐍 Estou estudando **Python** para análise de dados, explorando bibliotecas como Pandas, NumPy e ferramentas de visualização.
