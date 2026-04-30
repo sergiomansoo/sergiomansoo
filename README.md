@@ -1,12 +1,12 @@
 
-# Olá, sou o Sérgio Manso Silvério 👋
+# Sérgio Manso Silvério
 
 
 Sou estudante de **Ciências da Computação na PUCMG**, tenho 19 anos e sou apaixonado por desenvolvimento de software.
 
 * 🔭 Atualmente estou desenvolvendo projetos pessoais para fortalecer meu portfólio.
-* 🐍 Estou estudando **Python** para análise de dados, explorando bibliotecas como Pandas, NumPy e ferramentas de visualização.
 * 💻 Estou me aprofundando em **Java Back-End**, utilizando **Spring Boot** e outras tecnologias do ecossistema.
+* 🐍 Estou estudando **Python** para análise de dados, explorando bibliotecas como Pandas, NumPy e ferramentas de visualização.
 * 📫 Entre em contato: sergio.manso2007@gmail.com
 * 📄 Conheça mais sobre mim: [LinkedIn](https://www.linkedin.com/in/sergiomanso/)
 
