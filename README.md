@@ -38,7 +38,6 @@ Estudante de Ciência da Computação na PUC Minas, focado em desenvolvimento ba
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/>
  </p>
----
 
 ## 📊 GitHub Stats
 
