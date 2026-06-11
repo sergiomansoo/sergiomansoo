@@ -21,7 +21,6 @@ Estudante de Ciência da Computação na PUC Minas, focado em desenvolvimento ba
 [![API](https://img.shields.io/badge/API%20Live-Render-46E3B7?style=flat&logo=render)](https://taskmanager-xlm1.onrender.com/swagger-ui/index.html)
 [![App](https://img.shields.io/badge/App%20Live-Vercel-000000?style=flat&logo=vercel)](https://taskmanager-front-seven.vercel.app)
 
----
 
 ## Tecnologias
  <p>
