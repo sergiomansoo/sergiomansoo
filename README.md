@@ -1,4 +1,4 @@
-# Sérgio Manso
+# Sérgio Manso Silvério
 
 Estudante de Ciência da Computação na PUC Minas, focado em desenvolvimento back-end.
 
