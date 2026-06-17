@@ -1,6 +1,6 @@
 # Sérgio Manso Silvério
 
-Estudante de Ciência da Computação na PUC Minas, focado em desenvolvimento back-end.
+Estudante de Ciência da Computação na PUC Minas, focado em desenvolvimento de software.
 
  [Email](sergio.manso2007@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sergiomansoo/)
 
